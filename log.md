@@ -8,11 +8,11 @@ I've set up the VSC for the next assignment.
 **Thoughts**: Have to learn and remember the differences between the roles of [name], [id] and [type] 
 
 
-### Day 1: September 10, 2022 
+### Day 2: September 11, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Started a side project in VSC to excercise everything i've learned so far, mostly aiming at the styling options.
 
-**Thoughts**:
+**Thoughts**: I seem to be strugling with sotring out the containers, and therefore i experience hiccoughs here and there, but overall i'm quite happy with my progress.
 
 
 ### Day 1: September 10, 2022 
