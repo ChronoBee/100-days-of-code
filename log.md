@@ -19,7 +19,7 @@ I've set up the VSC for the next assignment.
 
 ### Day 3: September 18, 2022 
 
-**Today's Progress**: Finished a freeCodeCamp excercise focussed on CSS styling, SVG icons positioning and such. 
+**Today's Progress**: Finished a freeCodeCamp excercise focussed on CSS styling, SVG icons, positioning and such. 
 
 **Thoughts**: I enjoy CSS.. I enjoy the CSS.. I enjoy CSS... So many divs.
 
